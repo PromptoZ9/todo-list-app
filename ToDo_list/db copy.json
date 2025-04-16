@@ -1,0 +1,105 @@
+{
+    "admin1": {
+        "name": "admin1",
+        "password": "admin1",
+        "todos": [
+            {
+                "description": "def",
+                "isImportant": true,
+                "name": "abc",
+                "notes": [
+                    "a",
+                    "b",
+                    "c",
+                    "d",
+                    "e",
+                    "f",
+                    "g",
+                    "h"
+                ]
+            }
+        ]
+    },
+    "gita": {
+        "name": "gita",
+        "password": "sekar",
+        "todos": []
+    },
+    "prompto": {
+        "name": "prompto",
+        "password": "password",
+        "todos": []
+    },
+    "User1": {
+        "name": "User1",
+        "password": "password",
+        "todos": [
+            {
+                "description": "this is description",
+                "isImportant": true,
+                "name": "eat",
+                "notes": [
+                    "note1",
+                    "note2",
+                    "note3"
+                ]
+            },
+            {
+                "description": "this is description",
+                "isImprotant": true,
+                "name": "sleep",
+                "notes": [
+                    "note1",
+                    "note2",
+                    "note3"
+                ]
+            },
+            {
+                "description": "this is description",
+                "isImportant": true,
+                "name": "code",
+                "notes": [
+                    "note1",
+                    "note2",
+                    "note3"
+                ]
+            }
+        ]
+    },
+    "User2": {
+        "name": "User2",
+        "password": "password",
+        "todos": [
+            {
+                "description": "this is description",
+                "isImportant": true,
+                "name": "eat",
+                "notes": [
+                    "note1",
+                    "note2",
+                    "note3"
+                ]
+            },
+            {
+                "description": "this is description",
+                "isImprotant": true,
+                "name": "sleep",
+                "notes": [
+                    "note1",
+                    "note2",
+                    "note3"
+                ]
+            },
+            {
+                "description": "this is description",
+                "isImportant": true,
+                "name": "code",
+                "notes": [
+                    "note1",
+                    "note2",
+                    "note3"
+                ]
+            }
+        ]
+    }
+}
