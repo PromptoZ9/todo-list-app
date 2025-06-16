@@ -27,14 +27,17 @@ A simple command-line To-Do List application built with Python. This app allows 
 ## 🚀 How to Run
 
 1. Clone the repository:
-bash
+```bash
 git clone https://github.com/PromptoZ9/todo-list-app.git
 cd todo-list-app
+```
 
 2. Make sure db.json exists. If not, create an empty file like this:
+  ```json
    {}
+  ```
 
-3. Run the Script:
+4. Run the Script:
    python todo_app.py
 
 👥 User Flow
