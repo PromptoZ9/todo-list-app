@@ -27,7 +27,7 @@ A simple command-line To-Do List application built with Python. This app allows 
 ## 🚀 How to Run
 
 1. Clone the repository:
-```bash
+bash
 git clone https://github.com/PromptoZ9/todo-list-app.git
 cd todo-list-app
 
