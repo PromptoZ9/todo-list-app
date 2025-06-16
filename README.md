@@ -38,7 +38,7 @@ cd todo-list-app
   ```
 
 4. Run the Script:
-   python todo_app.py
+   python main.py
 
 👥 User Flow
 1. Register or Login
@@ -64,7 +64,7 @@ cd todo-list-app
 
 📂 File Structure
 
-todo_app.py          # Main application logic
+main.py          # Main application logic
 db.json              # JSON database for storing user & todo data
 README.md            # This file
 
